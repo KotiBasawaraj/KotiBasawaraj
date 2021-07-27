@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KotiBasawaraj
+- 👋 Hi, I’m @Koti Basawaraj
 - 👀 I’m interested in ...Data warehousing, ETL, SQL
 - 🌱 I’m currently learning ... Data warehousing, ETL, SQL
 - 💞️ I’m looking to collaborate on ...Learning projects for Data warehousing, ETL, SQL
